@@ -22,7 +22,7 @@
 
 ## 機械学習の大まかな流れ、各章でやること
 
-<img src="./assets/pic/ml0.png" width="50%">
+<img src="assets/pic/ml0.png" width="50%">
 
 機械学習の大まかな流れとしては、以上のようになっています。
 
